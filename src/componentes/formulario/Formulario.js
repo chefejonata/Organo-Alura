@@ -12,7 +12,7 @@ const times = [
     'Font-and',
     'Data Science',
     'Devops',
-    'UX e Desig',
+    'UX e Design',
     'Mobile',
     'Inovação e gestão'
 ]
